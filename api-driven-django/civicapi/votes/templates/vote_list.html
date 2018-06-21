@@ -1,0 +1,5 @@
+<ul>
+	{% for vote in results %}
+		<li><a href="/votes/{{vote.id}}/">{{vote.subject}}</li>
+	{% endfor %}
+</ul>
