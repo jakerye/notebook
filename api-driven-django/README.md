@@ -2,6 +2,15 @@
 Philip James  
 Thursday 9 a.m.–12:20 p.m. in Room 10
 
+### Slides
+https://speakerdeck.com/phildini/api-driven-django
+
+### Video
+https://github.com/phildini/api-driven-django
+
+### GitHub
+https://github.com/phildini/api-driven-django
+
 ### Description
 As the web continues to evolve, the demand for data-driven backends matched with rich frontend experiences grows every day. Django comes with a robust templating system and rendering engine, but more and more web applications using Django are just focusing on it’s API abilities.
 
